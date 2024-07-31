@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brenda Ivania</h1>
 <h3 align="center">I'm a developer junior!</h3>
 
-- 🌱 I’m currently learning **JavaScript...**
+- 🌱 I’m currently learning **JavaScript, Java, C#...**
 
-- 💬 Ask me about **HTML, CSS, Java...**
+- 💬 Ask me about **HTML, CSS, PHP...**
 
 - 📫 How to reach me **bivania706@gmail.com**
 
