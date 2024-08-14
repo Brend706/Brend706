@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brenda Ivania</h1>
 <h3 align="center">I'm a developer junior!</h3>
 
-- 🌱 I’m currently learning **JavaScript, Java, C#...**
+- 🌱 I’m currently learning **Java, C#...**
 
 - 💬 Ask me about **HTML, CSS, PHP...**
 
